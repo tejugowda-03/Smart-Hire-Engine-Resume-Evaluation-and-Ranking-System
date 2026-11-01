@@ -1,0 +1,39 @@
+Software Engineer - Full Stack Developer
+
+Job Description:
+
+We are seeking a talented Software Engineer with expertise in full-stack development to join our dynamic team. The ideal candidate will have strong programming skills, experience with modern web technologies, and a passion for building scalable applications.
+
+Key Responsibilities:
+- Develop and maintain web applications using modern frameworks
+- Design and implement RESTful APIs and microservices
+- Collaborate with cross-functional teams to deliver high-quality software
+- Write clean, maintainable, and well-tested code
+- Participate in code reviews and technical discussions
+- Troubleshoot and debug applications in production environments
+
+Required Skills:
+- Proficiency in Python, JavaScript, and at least one modern framework (Django, Flask, React, Node.js)
+- Experience with databases (PostgreSQL, MongoDB, MySQL)
+- Knowledge of cloud platforms (AWS, Google Cloud, Azure)
+- Understanding of version control systems (Git)
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork abilities
+
+Preferred Qualifications:
+- Experience with containerization (Docker, Kubernetes)
+- Knowledge of CI/CD pipelines and DevOps practices
+- Familiarity with machine learning and data science tools
+- Experience with agile development methodologies
+- Previous experience in a fast-paced startup environment
+
+Education:
+- Bachelor's degree in Computer Science, Software Engineering, or related field
+- Master's degree preferred but not required
+
+Experience:
+- 3-5 years of professional software development experience
+- Proven track record of delivering complex projects
+- Experience with both frontend and backend development
+
+We offer competitive compensation, flexible work arrangements, and opportunities for professional growth. Join our team and help us build the next generation of innovative software solutions.

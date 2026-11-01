@@ -1,0 +1,46 @@
+# Product Manager
+
+**Job Description:**
+
+We are looking for a motivated and strategic Product Manager to manage the product development lifecycle, understand customer requirements, and deliver successful digital products. The ideal candidate should have excellent communication, leadership, analytical, and problem-solving skills.
+
+### Key Responsibilities:
+- Define product vision, strategy, and roadmap.
+- Gather and analyze customer requirements.
+- Collaborate with engineering, design, and marketing teams.
+- Create product requirements documents (PRDs).
+- Prioritize product features based on business needs.
+- Monitor product performance and user feedback.
+- Manage product development timelines and milestones.
+- Coordinate product launches and improvements.
+- Conduct market research and competitor analysis.
+- Ensure products meet customer expectations and business objectives.
+
+### Required Skills:
+- Strong communication and interpersonal skills.
+- Knowledge of product management principles.
+- Understanding of Agile and Scrum methodologies.
+- Experience with product roadmaps and backlog management.
+- Knowledge of market research and business analysis.
+- Familiarity with Jira, Trello, or Asana.
+- Understanding of software development lifecycle (SDLC).
+- Knowledge of wireframing and prototyping tools such as Figma.
+- Strong leadership and decision-making abilities.
+- Analytical and problem-solving skills.
+
+### Preferred Qualifications:
+- Knowledge of SQL and data analytics.
+- Familiarity with Google Analytics and Power BI.
+- Understanding of UI/UX design principles.
+- Knowledge of software development and APIs.
+- Experience with A/B testing and product metrics.
+- Familiarity with cloud-based software products.
+- Understanding of customer relationship management (CRM).
+
+### Education:
+- Bachelor's degree in Business Administration, Computer Science, Information Technology, or a related field.
+- MBA or Product Management certification is an advantage.
+
+### Experience:
+- 0–2 years of experience.
+- Freshers with product-related academic projects, internships, or business analysis experience are welcome.

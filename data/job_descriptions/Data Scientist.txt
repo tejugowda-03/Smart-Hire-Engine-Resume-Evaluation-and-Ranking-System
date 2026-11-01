@@ -1,0 +1,42 @@
+# Data Scientist
+
+**Job Description:**
+
+We are looking for a skilled Data Scientist to analyze complex datasets, develop predictive models, and generate meaningful insights to support business decisions. The ideal candidate should have strong knowledge of programming, statistics, machine learning, and data visualization.
+
+### Key Responsibilities:
+- Collect, clean, and preprocess large datasets.
+- Analyze data to identify patterns, trends, and business opportunities.
+- Develop and implement machine learning models.
+- Perform statistical analysis and predictive modeling.
+- Build data visualizations and analytical reports.
+- Work with cross-functional teams to solve business problems.
+- Evaluate and improve machine learning model performance.
+- Present findings and recommendations to stakeholders.
+
+### Required Skills:
+- Proficiency in Python or R programming.
+- Knowledge of Machine Learning and Deep Learning.
+- Experience with Pandas, NumPy, and Scikit-learn.
+- Knowledge of SQL and database management.
+- Understanding of statistics and probability.
+- Experience with data visualization tools such as Tableau or Power BI.
+- Knowledge of data preprocessing and feature engineering.
+- Familiarity with Jupyter Notebook.
+- Strong analytical and problem-solving skills.
+
+### Preferred Qualifications:
+- Knowledge of TensorFlow or PyTorch.
+- Experience with Natural Language Processing (NLP).
+- Familiarity with Big Data technologies such as Spark.
+- Knowledge of AWS, Azure, or Google Cloud.
+- Understanding of model deployment and MLOps.
+- Experience with predictive analytics.
+
+### Education:
+- Bachelor's or Master's degree in Computer Science, Data Science, Statistics, Mathematics, or a related field.
+
+### Experience:
+- 0–2 years of experience.
+- Freshers with practical machine learning projects and data analytics knowledge are encouraged to apply.
+- Internship or academic project experience is an advantage.

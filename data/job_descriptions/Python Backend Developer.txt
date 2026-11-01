@@ -1,0 +1,38 @@
+# Python Backend Developer
+
+**Job Description:**
+
+We are looking for a motivated Python Backend Developer to join our development team. The candidate will be responsible for developing server-side applications, building APIs, managing databases, and improving application performance.
+
+### Key Responsibilities:
+- Develop backend applications using Python.
+- Build and maintain RESTful APIs using Flask or Django.
+- Design and manage relational and NoSQL databases.
+- Integrate frontend applications with backend services.
+- Identify and fix software bugs and performance issues.
+- Write reusable, maintainable, and efficient code.
+- Work with developers to deliver software projects.
+
+### Required Skills:
+- Good knowledge of Python programming.
+- Experience with Flask or Django frameworks.
+- Knowledge of REST API development.
+- Understanding of HTML, CSS, and JavaScript.
+- Knowledge of SQL and database management.
+- Familiarity with Git and GitHub.
+- Basic understanding of data structures and algorithms.
+- Good analytical and problem-solving skills.
+
+### Preferred Qualifications:
+- Knowledge of MongoDB or PostgreSQL.
+- Familiarity with AWS cloud services.
+- Understanding of Docker and deployment processes.
+- Basic knowledge of Machine Learning.
+- Experience with software testing and debugging.
+
+### Education:
+- Bachelor's degree in Computer Science, Information Technology, BCA, or a related field.
+
+### Experience:
+- 0–2 years of experience.
+- Freshers with relevant academic projects or internship experience are welcome.

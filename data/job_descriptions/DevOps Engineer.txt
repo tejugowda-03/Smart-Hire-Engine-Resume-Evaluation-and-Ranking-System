@@ -1,0 +1,47 @@
+# DevOps Engineer
+
+**Job Description:**
+
+We are looking for a skilled and motivated DevOps Engineer to join our technology team. The ideal candidate will be responsible for automating software development processes, managing cloud infrastructure, improving deployment workflows, and ensuring the reliability and scalability of applications.
+
+### Key Responsibilities:
+- Design, implement, and maintain CI/CD pipelines.
+- Manage cloud infrastructure using AWS, Azure, or Google Cloud.
+- Automate application deployment and configuration processes.
+- Work with development teams to improve software delivery.
+- Monitor application performance and troubleshoot system issues.
+- Manage containerized applications using Docker and Kubernetes.
+- Implement infrastructure automation and configuration management.
+- Maintain system security, availability, and scalability.
+- Manage Linux servers and cloud-based environments.
+- Support production deployments and resolve infrastructure issues.
+
+### Required Skills:
+- Strong knowledge of Linux and operating systems.
+- Proficiency in Python, Shell scripting, or Bash.
+- Experience with AWS, Azure, or Google Cloud Platform.
+- Knowledge of Docker and Kubernetes.
+- Understanding of CI/CD tools such as Jenkins, GitHub Actions, or GitLab CI.
+- Familiarity with Git and GitHub.
+- Knowledge of Infrastructure as Code tools such as Terraform or Ansible.
+- Understanding of networking, servers, and cloud infrastructure.
+- Experience with monitoring tools such as Prometheus and Grafana.
+- Strong troubleshooting and problem-solving skills.
+
+### Preferred Qualifications:
+- Knowledge of microservices architecture.
+- Experience with Jenkins pipeline automation.
+- Familiarity with AWS services such as EC2, S3, IAM, and VPC.
+- Knowledge of configuration management and infrastructure automation.
+- Understanding of security practices and DevSecOps.
+- Experience with Agile and Scrum methodologies.
+- Knowledge of Kubernetes orchestration and Helm.
+
+### Education:
+- Bachelor's degree in Computer Science, Information Technology, BCA, or a related field.
+- Relevant cloud computing or DevOps certifications are an advantage.
+
+### Experience:
+- 0–2 years of experience.
+- Freshers with knowledge of cloud computing, Linux, Docker, AWS, and CI/CD tools are encouraged to apply.
+- Academic projects, internships, and hands-on experience in DevOps are preferred.
