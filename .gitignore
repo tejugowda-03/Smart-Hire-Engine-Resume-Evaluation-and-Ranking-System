@@ -27,7 +27,7 @@ MANIFEST
 instance/
 .webassets-cache
 
-# Environment variables
+# Environment variables and secrets
 .env
 .env.*
 !.env.example
@@ -38,8 +38,9 @@ venv/
 env/
 ENV/
 
-# Database
+# Database files
 *.db
+*.sqlite
 *.sqlite3
 
 # Logs
@@ -48,6 +49,12 @@ logs/
 
 # Private uploaded resumes
 data/uploaded_resumes/
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
 # IDE
 .vscode/
@@ -58,11 +65,17 @@ data/uploaded_resumes/
 # Operating system
 .DS_Store
 Thumbs.db
+Desktop.ini
 
-# Testing
-.pytest_cache/
+# Testing and coverage
 .coverage
+.coverage.*
 htmlcov/
 
-# Docker
-.dockerignore
+# Sensitive local files
+cookies.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.temp
