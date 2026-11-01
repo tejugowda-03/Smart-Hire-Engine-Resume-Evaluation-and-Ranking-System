@@ -1,3 +1,4 @@
+
 """
 Flask Extensions
 
@@ -25,21 +26,14 @@ def init_extensions(app):
     migrate.init_app(app, db)
 
     # Initialize Flask-Caching
-    try:
-        cache.init_app(app)
-        app.logger.info("Cache initialized successfully")
-
-    except Exception as e:
-        app.logger.warning(
-            f"Cache initialization failed: {e}. Using SimpleCache."
-        )
-
-        app.config["CACHE_TYPE"] = "SimpleCache"
-        cache.init_app(app)
+    cache.init_app(app)
+    app.logger.info("Cache initialized successfully")
 
     # Clear cache on startup
     with app.app_context():
         try:
             cache.clear()
         except Exception as e:
-            app.logger.warning(f"Could not clear cache on startup: {e}")
+            app.logger.warning(
+                f"Could not clear cache on startup: {e}"
+            )
