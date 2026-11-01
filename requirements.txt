@@ -54,4 +54,6 @@ pyresparser>=1.0.6
 # Production server
 gunicorn>=22.0.0
 
+# PostgreSQL drivers
 psycopg2-binary>=2.9.9
+psycopg[binary]>=3.2.0
